@@ -1,6 +1,11 @@
 #include<stdio.h>
+
 /**
- * helo
+ * main - entry point
+ *
+ * descriptions: print a message uning the puts function
+ *
+ * Return: Always 0 (sucess)
  */
 int main(void)
 {
